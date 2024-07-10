@@ -19,8 +19,6 @@ This project implements a version of Tetris for the Arduino platform, utilizing 
 
 ### Software
 - [Arduino IDE](https://www.arduino.cc/en/software)
-- [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
-- [Adafruit SSD1306 Library](https://github.com/adafruit/Adafruit_SSD1306)
 
 ## Installation
 1. **Clone the repository:**
